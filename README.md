@@ -25,6 +25,11 @@ Experience the **AI Communication Assistant Dashboard** with a quick preview:
 | <img src="Dashboard images/main_page_screenshot.png" width="400" /> | <img src="Dashboard images/ai_response_management_tab.png" width="400" /> | <img src="Dashboard images/analytics%20of%20email%20insights.png" width="400" /> | <img src="Dashboard images/email_management_tab.png" width="400" /> | <img src="Dashboard images/main_page_screenshot.png" width="400" /> |
 
 </details>
+
+## 🎥 Demo Video
+
+[▶️ Watch Dashboard Demo](Dashboard%20images/dashboard_demo.mp4)
+
 > 💡 Navigate using the dots below the images to slide through the dashboard previews.
 
 
