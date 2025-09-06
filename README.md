@@ -24,11 +24,11 @@ Experience the **AI Communication Assistant Dashboard** with an interactive view
 
 <div class="slider">
   <div class="slides">
-    <div class="slide"><img src="assets/12main_page_screenshot.png" width="800"></div>
-    <div class="slide"><img src="assets/ai_response_management_tab.png" width="800"></div>
-    <div class="slide"><img src="assets/analytics of email insights.png" width="800"></div>
-    <div class="slide"><img src="assets/email_management_tab.png" width="800"></div>
-    <div class="slide"><img src="assets/main_page_screenshot.png" width="800"></div>
+    <div class="slide"><img src="Dashboard images/main_page_screenshot.png" width="800"></div>
+    <div class="slide"><img src="Dashboard images/ai_response_management_tab.png" width="800"></div>
+    <div class="slide"><img src="Dashboard images/analytics of email insights.png" width="800"></div>
+    <div class="slide"><img src="Dashboard images/email_management_tab.png" width="800"></div>
+    <div class="slide"><img src="Dashboard images/main_page_screenshot.png" width="800"></div>
   </div>
 </div>
 
