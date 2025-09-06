@@ -26,11 +26,15 @@ Experience the **AI Communication Assistant Dashboard** with a quick preview:
 
 </details>
 
-## 🎥 Demo Video
+## 🎥 Dashboard Demo
 
-[▶️ Watch Dashboard Demo](Dashboard%20images/dashboard_demo.mp4)
+<p align="center">
+  <a href="https://youtu.be/o54Eo8ImktY?feature=shared" target="_blank">
+    <img src="https://img.youtube.com/vi/o54Eo8ImktY/0.jpg" alt="Dashboard Demo" width="800">
+  </a>
+</p>
 
-> 💡 Navigate using the dots below the images to slide through the dashboard previews.
+> 🔗 Click the image above to watch the demo on YouTube.
 
 
 ### 📧 **Intelligent Email Management**
