@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Communication Assistant
+# 🤖 AI-Mail-Manager (AI-Powered  Mail Communication Assistant)
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)](https://flask.palletsprojects.com/)
@@ -8,7 +8,7 @@
 
 ## 📦 Deliverables
 
-1. End-to-end working solution of **AI-Powered Communication Assistant** (GitHub repository)  
+1. End-to-end working solution of **AI-Mail-Manager (AI-Powered  Mail Communication Assistant)** (GitHub repository)  
 2. Demonstration video of all the working features of the platform 👉 [Watch Here](https://youtu.be/o54Eo8ImktY?feature=shared)  
 3. Short self-written documentation (no AI) on architecture + approach used 👉 [Read Here](AI Mail Manager Architecture with approach.pdf)
 
@@ -68,15 +68,9 @@ Experience the **AI Communication Assistant Dashboard** with a quick preview:
 - **Document Storage**: FAQ, policies, and procedure management
 - **Vector Search**: Semantic search across knowledge base
 - **Auto-Import**: Bulk import from directories
-- **Version Control**: Track document updates and changes
 - **Category Organization**: Organize by support topics
 
-### 🎯 **Advanced Features**
-- **Multi-language Support**: Handle international emails
-- **Custom Filters**: Configurable email filtering rules
-- **Bulk Operations**: Process multiple emails efficiently
-- **Export Capabilities**: Generate reports and analytics
-- **API Integration**: RESTful API for external systems
+
 
 ## 🚀 **Quick Start**
 
@@ -254,37 +248,17 @@ GET /api/search?q=customer complaint
 
 ## 🔒 **Security & Privacy**
 
-### Data Protection
-- **Local Storage**: All data stored locally in SQLite
-- **Encryption**: Sensitive data encrypted at rest
-- **Access Control**: Role-based access management
-- **Audit Logs**: Complete activity tracking
 
-### API Security
-- **Authentication**: Secure API key management
-- **Rate Limiting**: Prevent abuse and overuse
-- **Input Validation**: Sanitize all user inputs
-- **Error Handling**: Secure error messages
-
-### Compliance
-- **GDPR Ready**: Data protection compliance
-- **SOC 2**: Security and availability standards
-- **HIPAA**: Healthcare data protection (optional)
-- **ISO 27001**: Information security management
 
 ## 📈 **Performance Metrics**
 
 ### Typical Performance
-- **Email Processing**: 50-100 emails per minute
+- **Email Processing**: 5-10 emails per minute
 - **Response Generation**: 2-5 seconds per response
-- **Sentiment Analysis**: 1-2 seconds per email
-- **Knowledge Search**: <1 second for queries
+- **Sentiment Analysis**: 1-4 seconds per email
+- **Knowledge Search**: <2 second for queries
 
-### Scalability
-- **Concurrent Users**: 50+ simultaneous users
-- **Email Volume**: 10,000+ emails per day
-- **Database Size**: 1M+ emails supported
-- **Response Time**: <3 seconds average
+
 
 ## 🛠️ **Development**
 
