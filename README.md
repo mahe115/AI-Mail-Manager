@@ -8,7 +8,7 @@
 
 ## 📦 Deliverables
 
-1. End-to-end working solution of **AI-Mail-Manager (AI-Powered  Mail Communication Assistant)** 
+1. End-to-end working solution of **AI-Mail-Manager (AI-Powered  Mail Communication Assistant ☝️)** 
 2. Demonstration video of all the working features of the platform 👉 [Watch Here](https://youtu.be/o54Eo8ImktY?feature=shared)  
 3. Short self-written documentation  on architecture + approach used 👉 [Read Here](/AI%20Mail%20Manager%20Architecture%20with%20approach.pdf)
 
