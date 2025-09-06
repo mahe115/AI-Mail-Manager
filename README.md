@@ -303,14 +303,6 @@ pytest tests/e2e/
 - [Setup Guide](SETUP_GUIDE.md) - Complete installation instructions
 
 
-### Developer Resources
-- [Architecture Overview](SYSTEM_ARCHITECTURE.md) - System design
-
-
-
-
-
-
 ## 🙏 **Acknowledgments**
 
 - **OpenAI** for providing the GPT-4 API
