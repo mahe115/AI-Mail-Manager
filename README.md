@@ -321,15 +321,11 @@ pytest tests/e2e/
 
 ### User Guides
 - [Setup Guide](SETUP_GUIDE.md) - Complete installation instructions
-- [User Manual](docs/USER_MANUAL.md) - How to use the system
-- [API Documentation](docs/API.md) - REST API reference
-- [Configuration Guide](docs/CONFIGURATION.md) - System configuration
+
 
 ### Developer Resources
 - [Architecture Overview](SYSTEM_ARCHITECTURE.md) - System design
-- [Contributing Guide](CONTRIBUTING.md) - Development guidelines
-- [Deployment Guide](docs/DEPLOYMENT.md) - Production deployment
-- [Troubleshooting](docs/TROUBLESHOOTING.md) - Common issues
+
 
 
 
