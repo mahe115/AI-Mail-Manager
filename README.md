@@ -11,40 +11,20 @@
 ## 🌟 **Features**
 ## 📸 Dashboard Preview
 
-Experience the **AI Communication Assistant Dashboard** with an interactive view:
+Experience the **AI Communication Assistant Dashboard** with a quick preview:
 
-<div align="center">
+<p align="center">
+  <img src="Dashboard images/dashboard_slides.gif" alt="AI Communication Assistant – dashboard slideshow" width="900">
+</p>
 
-<!-- Slide Controls -->
-<input type="radio" name="slide" id="slide1" checked>
-<input type="radio" name="slide" id="slide2">
-<input type="radio" name="slide" id="slide3">
-<input type="radio" name="slide" id="slide4">
-<input type="radio" name="slide" id="slide5">
+<details>
+  <summary><strong>View individual screenshots</strong></summary>
 
-<div class="slider">
-  <div class="slides">
-    <div class="slide"><img src="Dashboard images/main_page_screenshot.png" width="800"></div>
-    <div class="slide"><img src="Dashboard images/ai_response_management_tab.png" width="800"></div>
-    <div class="slide"><img src="Dashboard images/analytics of email insights.png" width="800"></div>
-    <div class="slide"><img src="Dashboard images/email_management_tab.png" width="800"></div>
-    <div class="slide"><img src="Dashboard images/main_page_screenshot.png" width="800"></div>
-  </div>
-</div>
+| Main Dashboard | AI Responses | Analytics | Emails | Sidebar Overview |
+|---|---|---|---|---|
+| <img src="Dashboard images/12main_page_screenshot.png" width="400" /> | <img src="Dashboard images/ai_response_management_tab.png" width="400" /> | <img src="Dashboard images/analytics%20of%20email%20insights.png" width="400" /> | <img src="Dashboard images/email_management_tab.png" width="400" /> | <img src="Dashboard images/main_page_screenshot.png" width="400" /> |
 
-<!-- Navigation -->
-<div class="navigation">
-  <label for="slide1">●</label>
-  <label for="slide2">●</label>
-  <label for="slide3">●</label>
-  <label for="slide4">●</label>
-  <label for="slide5">●</label>
-</div>
-
-</div>
-
----
-
+</details>
 > 💡 Navigate using the dots below the images to slide through the dashboard previews.
 
 
