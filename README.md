@@ -331,23 +331,9 @@ pytest tests/e2e/
 - [Deployment Guide](docs/DEPLOYMENT.md) - Production deployment
 - [Troubleshooting](docs/TROUBLESHOOTING.md) - Common issues
 
-## 🤝 **Support**
 
-### Community Support
-- **GitHub Issues**: Bug reports and feature requests
-- **Discord Community**: Real-time chat and support
-- **Stack Overflow**: Technical questions and answers
-- **Documentation**: Comprehensive guides and tutorials
 
-### Professional Support
-- **Email Support**: support@ai-assistant.com
-- **Priority Support**: 24/7 for enterprise customers
-- **Custom Development**: Tailored solutions
-- **Training**: Team training and onboarding
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 **Acknowledgments**
 
@@ -384,10 +370,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Contact**
 
-- **Website**: https://ai-communication-assistant.com
-- **Email**: info@ai-communication-assistant.com
-- **Twitter**: [@AIAssistant](https://twitter.com/AIAssistant)
-- **LinkedIn**: [AI Communication Assistant](https://linkedin.com/company/ai-communication-assistant)
+- **Email**: mahe.mahendran806@gmail.com
+- **LinkedIn**: [Mahendran B](https://www.linkedin.com/in/mahendran-b-95333521a/)
 
 ---
 
