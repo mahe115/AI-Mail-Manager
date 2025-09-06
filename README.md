@@ -10,7 +10,7 @@
 
 1. End-to-end working solution of **AI-Powered Communication Assistant** (GitHub repository)  
 2. Demonstration video of all the working features of the platform 👉 [Watch Here](https://youtu.be/o54Eo8ImktY?feature=shared)  
-3. Short self-written documentation (no AI) on architecture + approach used 👉 [Read Here](link-to-your-doc-file-in-repo)
+3. Short self-written documentation (no AI) on architecture + approach used 👉 [Read Here](AI Mail Manager Architecture with approach.pdf)
 
 > **Transform your customer support with AI-powered email management, sentiment analysis, and intelligent response generation.**
 
