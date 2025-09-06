@@ -9,6 +9,44 @@
 > **Transform your customer support with AI-powered email management, sentiment analysis, and intelligent response generation.**
 
 ## 🌟 **Features**
+## 📸 Dashboard Preview
+
+Experience the **AI Communication Assistant Dashboard** with an interactive view:
+
+<div align="center">
+
+<!-- Slide Controls -->
+<input type="radio" name="slide" id="slide1" checked>
+<input type="radio" name="slide" id="slide2">
+<input type="radio" name="slide" id="slide3">
+<input type="radio" name="slide" id="slide4">
+<input type="radio" name="slide" id="slide5">
+
+<div class="slider">
+  <div class="slides">
+    <div class="slide"><img src="assets/12main_page_screenshot.png" width="800"></div>
+    <div class="slide"><img src="assets/ai_response_management_tab.png" width="800"></div>
+    <div class="slide"><img src="assets/analytics of email insights.png" width="800"></div>
+    <div class="slide"><img src="assets/email_management_tab.png" width="800"></div>
+    <div class="slide"><img src="assets/main_page_screenshot.png" width="800"></div>
+  </div>
+</div>
+
+<!-- Navigation -->
+<div class="navigation">
+  <label for="slide1">●</label>
+  <label for="slide2">●</label>
+  <label for="slide3">●</label>
+  <label for="slide4">●</label>
+  <label for="slide5">●</label>
+</div>
+
+</div>
+
+---
+
+> 💡 Navigate using the dots below the images to slide through the dashboard previews.
+
 
 ### 📧 **Intelligent Email Management**
 - **Automatic Email Retrieval**: Fetch emails from Gmail using IMAP
