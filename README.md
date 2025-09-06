@@ -319,29 +319,6 @@ pytest tests/e2e/
 - **Sentence Transformers** for semantic search capabilities
 - **Community Contributors** for feedback and improvements
 
-## 🔮 **Roadmap**
-
-### Version 2.0 (Q2 2024)
-- [ ] Multi-language support
-- [ ] Advanced analytics dashboard
-- [ ] CRM integrations (Salesforce, HubSpot)
-- [ ] Mobile application
-- [ ] Voice integration
-
-### Version 2.1 (Q3 2024)
-- [ ] Custom AI model training
-- [ ] Advanced workflow automation
-- [ ] Team collaboration features
-- [ ] Advanced reporting
-- [ ] API rate limiting
-
-### Version 3.0 (Q4 2024)
-- [ ] Enterprise features
-- [ ] Advanced security
-- [ ] Compliance tools
-- [ ] Performance optimization
-- [ ] Cloud deployment options
-
 ---
 
 ## 📞 **Contact**
